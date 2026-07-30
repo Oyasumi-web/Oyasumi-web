@@ -15,4 +15,3 @@ abaixo você pode ver meus contatos
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <br>
 
-[![Richard Status](https://github-readme-stats.vercel.app/api?username=Richard)](https://github.com/anuraghazra/github-readme-stats)
