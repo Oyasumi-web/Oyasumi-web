@@ -4,6 +4,8 @@
 abaixo você pode ver meus contatos
 </p>
 <br>
+<p>Whatzapp: 11 99195-6573</p>
+<p>Linkedin: https://www.linkedin.com/in/richardpyt/</p>
 
 ## Tecnologias :computer:
 
